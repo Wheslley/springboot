@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: FirstProjectWithSpringBoot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sc703450
+Implementation-Vendor-Id: br.com.cutrale
+Build-Jdk: 1.8.0_152
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
